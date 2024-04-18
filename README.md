@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at the International Institute of Information Technology, Hyderabad (IIITH)<br>🌱 I’m currently learning and Practicing Data Structures (DS) and algorithms<be>🔭 Exploring Machine Learning 
+🔭 I’m currently studying at the International Institute of Information Technology, Hyderabad (IIITH)<br>🌱 I’m currently learning and Practicing Data Structures (DS) and algorithms<br>🔭 Exploring Machine Learning <be>
 
 
 ## 🌐 Socials:
